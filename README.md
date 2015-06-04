@@ -2,6 +2,8 @@
 
 This repository contains the code and 3D source files to create a simple water level sensor that can be attached to a bucket of water, e.g. on your balcony, from which you're watering your plants using [self-watering probes](http://www.amazon.com/Self-Watering-Probes-Package-of-5/dp/B0002VAHXC). 
 
+![](http://thingiverse-production-new.s3.amazonaws.com/renders/62/60/4b/f8/ff/IMG_0102_preview_featured.jpg)
+
 # Parts
 
 You will need a few things to assemble the water level sensor:  
@@ -36,6 +38,8 @@ And last but not least a 3D printer to print the enclosure and inner structure t
 - Stick float switch cables through the hole in the outer sensor enclosure. Connect them to the Wifi board. One cable goes to GND, the other to GPIO13. Again, it may be a good idea to solder the switch cables to female breadboard connectors. 
 
 - Glue everything in place. I used strong double-sided foam tape. 
+
+**Attention: Be careful with Lithium batteries. I have not tested the enclosure for safety. It is certainly not entirely weather-proof. Safety will depend on your choice of batteries, battery protection circuits, charging circuits etc. I do not take any responsibility if your batteries suddenly catch fire.**
 
 # Flash 
 
